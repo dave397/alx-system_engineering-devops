@@ -1,0 +1,1 @@
+# Documentation shell/file permissions
